@@ -2,7 +2,7 @@
 var socket = io.connect('http://localhost:4000');
 
 //init config
-var forma = "sine";
+var forma = "Triangle";
 
 
   $(".key").on("mousedown", function(){
