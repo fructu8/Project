@@ -1,6 +1,6 @@
 	//Make connection to:
-	//var socket = io.connect('http://localhost:4000');
-  var socket = io.connect('http://192.168.1.130:4000');
+	var socket = io.connect('http://localhost:4000');
+//  var socket = io.connect('http://192.168.1.130:4000');
 
 
 
